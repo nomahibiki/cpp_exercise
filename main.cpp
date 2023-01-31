@@ -2,5 +2,4 @@
 int main()
 {
 
-	system("pause>0");
-}
+	system("pause>0");}
